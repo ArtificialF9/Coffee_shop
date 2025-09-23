@@ -6,3 +6,15 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+.header {
+  background-image: url(../images/background_header.svg);
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  height: 1000px;
+}
+
+.nav__logo {
+}
