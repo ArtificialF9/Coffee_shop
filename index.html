@@ -118,8 +118,7 @@
                 id="surname"
                 placeholder="Name Surname"
               />
-            </fieldset>
-            <fieldset class="form__fieldset">
+
               <label class="form__label" for="number-of-guests"
                 >Number of Guests*</label
               >
@@ -132,8 +131,7 @@
                 max="8"
                 placeholder="1 - 8"
               />
-            </fieldset>
-            <fieldset class="form__fieldset">
+
               <label class="form__label" for="date-time">Date & Time*</label>
               <input
                 class="form__input"
@@ -141,8 +139,7 @@
                 required
                 id="date-time"
               />
-            </fieldset>
-            <fieldset class="form__fieldset">
+
               <label class="form__label" for="email">Your email*</label>
               <input
                 class="form__input"
@@ -152,21 +149,17 @@
                 placeholder="email@email.com"
               />
             </fieldset>
-            <fieldset class="form__fieldset"></fieldset>
-
             <button type="submit" class="form__button">Book a table</button>
-            <fieldset class="form__checkbox">
-              <input
-                type="checkbox"
-                required
-                name="terms-agreement"
-                class="form__checkbox"
-              />
-              <label
-                class="form__label form__label_type_chackbox"
-                for="terms-agreement"
+            <fieldset class="checkbox__fieldset">
+              <label class="form__checkbox_type_checkbox" for="email"
                 >I agree with the terms of use</label
               >
+              <input
+                class="form__checkbox"
+                type="checkbox"
+                required
+                id="email"
+              />
             </fieldset>
           </form>
         </section>
