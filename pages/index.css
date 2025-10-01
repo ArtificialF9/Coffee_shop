@@ -252,7 +252,7 @@
   justify-content: center;
 }
 
-.form__checkbox_type_checkbox {
+.fieldset-wrap_type_checkbox {
   display: flex;
   gap: 12px;
 }
