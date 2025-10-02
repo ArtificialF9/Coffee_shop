@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__links {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
+}
+
+.nav__link {
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+  margin-left: auto;
+  color: #000;
+}
