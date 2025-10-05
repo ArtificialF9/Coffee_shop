@@ -21,7 +21,7 @@
 .menu__subtitle {
   margin: 0;
   max-width: 780px;
-  font-family: "Noto Serif" "Times New Roman" serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
 }

@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+A future element I would like to add to the Coffee Shop is an interactive form where studnets or visitors can reserve a book for pick-up and add a drink to so they can pick up both book and beverage upon arrival at the Triple Peaks Library.
