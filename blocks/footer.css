@@ -44,11 +44,12 @@
   font-family: inherit;
   font-size: 16px;
   line-height: 20px;
-  transition: color 0.3s;
+  transition: opacity 0.3s;
 }
 
 .footer__social-link:hover {
-  color: #c1c1c1;
+  opacity: 70%;
+  /*Brief states: The color of the footer__social-link elements should transition to #c1c1c1, however requested changed to 70% opacity in review*/
 }
 
 .footer__social-icon {
